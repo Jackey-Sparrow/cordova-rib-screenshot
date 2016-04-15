@@ -1,7 +1,7 @@
-##
+## function
 
 ```
-take the screen shot and email the pic 
+take the screen shot and email the pic
 
 ```
 

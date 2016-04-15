@@ -5,16 +5,16 @@ take the screen shot and email the pic
 
 ```
 
-
 ## usage
 
-```
 
-
-```
+``` cordova
 cordova plugin add https://github.com/Jackey-Sparrow/cordova-rib-screenshot.git
 
 ```
+
+
+```js
  window.ribScreenshot.take('RIB Controlling Report', '', function (data) {
             //alert('data:' + data);
           }, function (err) {
